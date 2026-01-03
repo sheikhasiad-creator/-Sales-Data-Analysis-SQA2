@@ -4,7 +4,7 @@ sales = [100, 200, 150, 300, 250]
 
 best_sale = 0
  
-for sale in sales:        # loop
+for sale in sales:        # loop modified
 
     if sale > best_sale:  # if condition
 
